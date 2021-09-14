@@ -1,6 +1,6 @@
-# Caue Francisco
+## Caue Francisco
 
-### Hi there 👋
+### Oii!  👋
 
 - 🔭 Desenvolvedor Front-End Júnior, à procura de um job.
 - 🌱 Aprendendo React e Vue.js
