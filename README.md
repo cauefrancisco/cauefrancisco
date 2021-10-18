@@ -2,9 +2,8 @@
 
 ### Oii!  👋
 
-- 🔭 Desenvolvedor Front-End Júnior.
+- 🔭 Desenvolvedor Front-End Jr. Na Listo
 - 🌱 Aprendendo React e Vue.js
-- 👯 Hacker no Gama XP38 
 - ⚡ *_Fun fact:_* Também sou escritor/autor publicado, amo algoritmos.
 
 <hr>
