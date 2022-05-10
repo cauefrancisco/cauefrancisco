@@ -2,9 +2,9 @@
 
 ### Oii!  👋
 
-- 🔭 Desenvolvedor Front-End Jr. Na Listo
-- 🌱 Aprendendo React e Vue.js
-- ⚡ *_Fun fact:_* Também sou escritor/autor publicado, amo algoritmos.
+- 🔭 Desenvolvedor Front-End.
+- 🌱 Angular || Typescript
+- ⚡ *_Fun fact:_* Também sou escritor/autor publicado, amo algoritmos rs.
 
 <hr>
 
