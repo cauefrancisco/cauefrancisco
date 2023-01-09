@@ -3,8 +3,8 @@
 ### Oii!  👋
 
 - 🔭 Desenvolvedor Front-End.
-- 🌱 Angular || Typescript
-- ⚡ *_Fun fact:_* Também sou escritor/autor publicado, amo algoritmos rs.
+- 🌱 Angular || React.js || JavaScript || Typescript
+- ⚡ *_Fun fact:_* Também sou escritor/autor publicado, amo algoritmos rs <3.
 
 <hr>
 
