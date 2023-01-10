@@ -4,7 +4,6 @@
 
 - 🔭 Desenvolvedor Front-End.
 - 🌱 Angular || React.js || JavaScript || Typescript
-- ⚡ *_Fun fact:_* Também sou escritor/autor publicado, amo algoritmos rs <3.
 
 <hr>
 
