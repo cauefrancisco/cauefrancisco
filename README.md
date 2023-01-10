@@ -18,6 +18,11 @@
   <img width="200rem" align="right" alt="Caue-cats_books" src="https://media.giphy.com/media/s6uuvDUVwqr4c/giphy.gif">
 </div>
 
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cauefrancisco&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <hr>
 
 <a href = "mailto:cauefranscis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
